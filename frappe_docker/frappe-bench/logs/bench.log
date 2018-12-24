@@ -1,0 +1,12 @@
+2018-12-24 09:05:32,296 INFO getting app facgure-erp
+2018-12-24 09:05:32,311 INFO git clone https://Boomin@bitbucket.org/facgure/facgure-erp.git  --depth 1 --origin upstream
+2018-12-24 09:14:09,827 INFO getting app facgure-erp
+2018-12-24 09:14:09,843 INFO git clone https://Boomin@bitbucket.org/facgure/facgure-erp.git  --depth 1 --origin upstream
+2018-12-24 09:18:59,807 INFO getting app 
+2018-12-24 09:18:59,826 INFO git clone https://bitbucket.org/facgure/facgure-erp/src/master/  --depth 1 --origin upstream
+2018-12-24 09:27:29,506 INFO getting app 
+2018-12-24 09:27:29,531 INFO git clone https://bitbucket.org/facgure/facgure-erp/src/master/  --depth 1 --origin upstream
+2018-12-24 09:32:15,034 INFO getting app facgure-erp
+2018-12-24 09:32:15,049 INFO git clone https://Boomin@bitbucket.org/facgure/facgure-erp.git  --depth 1 --origin upstream
+2018-12-24 09:32:28,550 INFO installing facgure_management
+2018-12-24 09:32:28,552 INFO ./env/bin/pip install -q  -e ./apps/facgure_management --no-cache-dir
